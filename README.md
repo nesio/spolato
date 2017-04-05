@@ -1,4 +1,4 @@
-# [Start Bootstrap]Steven Polato - Peinture [Creative](https://nesio.github.io/spolato)
+# [Steven Polato - Peinture](https://nesio.github.io/spolato)
 
 ## Copyright and License
 
